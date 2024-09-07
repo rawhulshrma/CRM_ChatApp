@@ -1,0 +1,16 @@
+YUt-I5aHwZ-h4KRAHJJV-Q password
+
+sun mene ek dashbord banaya jisme sabse login page hoga to redux use karunga usme esa scene hai ki owner login page me apne email aur password dalega db se mmatch honge age auth sahi hai to wo dashbord par aa jayega 
+
+logic yah hai ki owner admin ko create kar skta hai admin manager ko aur manager ko employee aur owner chahe to teeno ko ek sath create kar skta hai matlab chain system
+
+ab owner ne admin create kar dia to admin login page par jayega aur use email aur password dalne honge jo owner ne diya aur owner chahe to wahi page access ke liye rakh sktya hai jaha admin ka kam ho uske alwa nhi aur admin chahe to wahi page accessbale rakkh skta hai jo manager ke kaam ke lo
+
+sun charo ka login page ek hi ho charo ek hi app use kare but kuch rstrication ke saath 
+
+acha mene login page banaya hai redux ka kaam yah hai ki db se match ki uska role kya hai use pass kaun kaun se route accessbale hai 
+
+code lengthy na ho eske liye esa karna hai ki man lo owner login ho to uski detail admin login ho to uski detail manager login ho to uski detail 
+
+
+samza gya ab code mera logic samza ke nhi samza
